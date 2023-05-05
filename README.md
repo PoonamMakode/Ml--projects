@@ -1,2 +1,7 @@
 # Ml--projects
-datasets
+A virtual internship program by Bharat Intern
+Task 1 : House price prediction
+Task 2 : Wine quality prediction
+Task 3 : Iris flower classification
+
+contains jupyter notebook with dataset
